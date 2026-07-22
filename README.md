@@ -45,6 +45,9 @@ Full-stack trading platform with Spring Boot, React.js, PostgreSQL, and TradingV
 **[ShopEase — Full-Stack E-commerce Application](https://github.com/shubhamgupta0258/shopease-ecommerce)**
 RESTful APIs for authentication, product management, cart, and order processing with Java, Spring Boot, and layered architecture. Secured with JWT and Spring Security; data persistence via Hibernate/JPA and MySQL.
 
+**[The Smart Move](https://github.com/shubhamgupta0258/TheSmartMove)** — live at [thesmartmove.in](https://thesmartmove.in)
+Trading education platform for a premium trading institute, built with Node.js/Express, EJS, and a Turso (libSQL) database. Includes a marketing site, a student portal with Google OAuth and UPI-based enrollment, and an admin panel for managing leads, programs, and live class sessions. Deployed on Render.
+
 ---
 
 ### GitHub Stats
